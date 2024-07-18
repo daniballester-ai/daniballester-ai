@@ -10,13 +10,15 @@
 
 - 📫 How to reach me **dani@daniballester.com**
 
-</div>
-
----
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniballester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniballester" height="30" width="40" /></a>
 </p>
+</div>
+
+---
+
 <br>
 <p align="left">
 I have over <strong>20 years of experience in Information Technology</strong>, working as a Developer, Systems Analyst, and Project Manager. I have worked in companies in the port sector, where I developed systems for cargo control and export, as well as designing database architectures using MySQL and SQL Server.
