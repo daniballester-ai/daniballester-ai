@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Danielle Ballester</h1>
+<h2 align="left">Hi 👋, I'm Danielle Ballester</h2>
 <h3 align="left">A data analyst, passionate about science, data and behavior. Currently a master's student in Psychobiology (UFRN) applying Machine Learning.</h3>
 
   
