@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Danielle Ballester</h1>
-<h3 align="center">A data analyst, passionate about science, data and behavior. Currently a master's student in Psychobiology (UFRN) applying Machine Learning.</h3>
+<h1 align="left">Hi 👋, I'm Danielle Ballester</h1>
+<h3 align="left">A data analyst, passionate about science, data and behavior. Currently a master's student in Psychobiology (UFRN) applying Machine Learning.</h3>
 
 - 🔭 I’m interested in **Data Analysis and Data Science.**
 
@@ -8,6 +8,24 @@
 - 💬 Ask me about **SQL, Data Analysis, Machine Learning, Data Science e Database**
 
 - 📫 How to reach me **dani@daniballester.com**
+
+</div>
+
+---
+
+<p align="left">
+I have over <strong>20 years of experience in Information Technology</strong>, working as a Developer, Systems Analyst, and Project Manager. I have worked in companies in the port sector, where I developed systems for cargo control and export, as well as designing database architectures using MySQL and SQL Server.
+</p>
+
+<p align="left"> 
+I hold a Bachelor's degree in Information Systems from ISULPAR University and a Post-Graduate degree in Project Management from UNISANTOS/SP. I am certified as a PMP by PMI, Professional Scrum Master (PSM I) by SCRUM.ORG, and COBIT Foundation by ISACA. I was also a representative of VMEdu, conducting SCRUM training sessions.
+</p>
+
+<p align="left"> 
+In the academic field, I have taught courses in data architecture, databases, and programming languages. Currently, I am focused on machine learning projects at the psychobiology research laboratory at the Federal University of Rio Grande do Norte, where I apply advanced techniques for data analysis and modeling.
+</p>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
