@@ -3,8 +3,6 @@
 
 - 🔭 I’m interested in **Data Analysis and Data Science.**
 
-- 🌱 I’m currently learning **Python, Pytorch, TensorFlow**
-
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning projects.**
 
 - 💬 Ask me about **SQL, Data Analysis, Machine Learning, Data Science e Database**
