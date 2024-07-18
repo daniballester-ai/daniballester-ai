@@ -28,7 +28,7 @@ I hold a Bachelor's degree in Information Systems from ISULPAR University and a 
 </p>
 
 <p align="left"> 
-In the academic field, I have taught courses in data architecture, databases, and programming languages. Currently, I am focused on machine learning projects at the psychobiology research laboratory at the Federal University of Rio Grande do Norte, where I apply advanced techniques for data analysis and modeling.
+In the academic field, I have taught courses in data architecture, databases, and programming languages. Currently, I am focused on machine learning projects at the psychobiology research laboratory at the Federal University of Rio Grande do Norte.
 </p>
 
 <br>
