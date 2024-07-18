@@ -3,11 +3,8 @@
 
   
 - 🔭 I’m interested in **Data Analysis and Data Science.**
-
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning projects.**
-
 - 💬 Ask me about **SQL, Data Analysis, Machine Learning, Data Science e Database**
-
 - 📫 How to reach me **dani@daniballester.com**
 
 <h3 align="left">Connect with me:</h3>
