@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Danielle Ballester</h1>
 <h3 align="left">A data analyst, passionate about science, data and behavior. Currently a master's student in Psychobiology (UFRN) applying Machine Learning.</h3>
-
+<br>
 - 🔭 I’m interested in **Data Analysis and Data Science.**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning projects.**
@@ -12,7 +12,11 @@
 </div>
 
 ---
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daniballester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniballester" height="30" width="40" /></a>
+</p>
+<br>
 <p align="left">
 I have over <strong>20 years of experience in Information Technology</strong>, working as a Developer, Systems Analyst, and Project Manager. I have worked in companies in the port sector, where I developed systems for cargo control and export, as well as designing database architectures using MySQL and SQL Server.
 </p>
@@ -26,11 +30,6 @@ In the academic field, I have taught courses in data architecture, databases, an
 </p>
 
 <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daniballester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniballester" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
