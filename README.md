@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Danielle Ballester  
-**A data analyst, passionate about technology, behavior and bodyboarding. Currently a master's student in Psychobiology applying Machine Learning.**
+**A data analyst, passionate about technology, behavior and bodyboarding. Currently applying Machine Learning and Multi-Agents AI.**
 
   
 - 🔭 I’m interested in **Data Analysis and Data Science.**
