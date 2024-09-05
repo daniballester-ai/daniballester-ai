@@ -5,7 +5,7 @@
 - 🔭 I’m interested in **Data Analysis and Data Science.**
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning projects.**
 - 💬 Ask me about **SQL, Data Analysis, Machine Learning, Data Science** and **Database**
-- 📫 How to reach me **dani@daniballester.com**
+- 📫 How to reach me **danielleballester@gmail.com**
 - 💻 Currently more focused on:
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
